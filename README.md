@@ -8,7 +8,7 @@ The files of this repository are:
   3. Data_Mining_with_SAS.docx
   4. README.twbx
 
-You need a SAS account to watch the solution.
+You need a SAS account to view the solution.
 
 ## 1. data/
 
@@ -20,7 +20,7 @@ The data files are:
  
 ## 2. Enunciado_DM.pdf
 
-This file contains the explication and objective to solve the problems of data mining. Also, there are the explication of every variable.
+This file contains the explication and the objectives of the problems to solve. Also, there is the explication of every variable.
 
 
 ## 3. Data_Mining_with_SAS.docx
